@@ -10,7 +10,7 @@ import net.minecraft.util.ResourceLocation;
 
 public class MainMenu extends GuiScreen {
 	
-	// main menu made by BisN
+	// minecraft custom main menu made by BisN
 
 	public MainMenu() {
 		
